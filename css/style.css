@@ -1,0 +1,19 @@
+.jumbotron {
+    background-image: url("../images/hero.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.container {
+    width: 70%;
+    min-width: 500px;
+    max-width: 700px;
+    color: white;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+}
+
